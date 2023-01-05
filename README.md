@@ -2,7 +2,7 @@
 
 ### Caminho do projeto: clustering_validation/src/portfolio_projects/dota2_clustering.ipynb
 
-O trabalho consiste em uma clusterização de dados de partidas do jogo Dota 2 (um dos jogos mais jogados no mundo) realizadas porcompetidores em ligas profissionais no ano de 2022. É um jogo que eu gosto, mas particularmente tenho dificuldades e, para entender melhor as "features" que levam à vitória e quais personagens estão sendo mais utilizados nos campeonatos e o porquê, o presente trabalho foi realizado.
+O trabalho consiste em uma clusterização de dados de partidas do jogo Dota 2 (um dos jogos mais jogados no mundo) realizadas por competidores em ligas profissionais no ano de 2022. É um jogo que eu gosto, mas particularmente tenho dificuldades e, para entender melhor as "features" que levam à vitória e quais personagens estão sendo mais utilizados nos campeonatos e o porquê, o presente trabalho foi realizado.
 
 A base de dados foi coletada em um site que disponibiliza dados estatísticos das partidas profissionais e também de todos os jogadores, mas, para baixar os meus dados, precisaria de pagar um certo valor em uma key para usar uma API, então foram obtidos dados de 20.000 jogos realizados por profissionais no ano de 2022 (que são dados gratuitos). As informações sobre a base de dados são:
 
